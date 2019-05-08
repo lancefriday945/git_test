@@ -1,0 +1,1 @@
+This is Lance Friday's first git project!
